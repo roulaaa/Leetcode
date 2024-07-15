@@ -11,5 +11,8 @@
 
 ```                                                                                                     
 </div>      
-<h2>Languages Used</h2>
-<img src="https://skillicons.dev/icons?i=java" />
+<h2>Tools</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
