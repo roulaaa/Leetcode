@@ -23,4 +23,12 @@
 |  |
 | ------- |
 | [1338-queries-quality-and-percentage](https://github.com/roulaaa/Leetcode/tree/master/1338-queries-quality-and-percentage) |
+## Math
+|  |
+| ------- |
+| [3567-convert-date-to-binary](https://github.com/roulaaa/Leetcode/tree/master/3567-convert-date-to-binary) |
+## String
+|  |
+| ------- |
+| [3567-convert-date-to-binary](https://github.com/roulaaa/Leetcode/tree/master/3567-convert-date-to-binary) |
 <!---LeetCode Topics End-->
