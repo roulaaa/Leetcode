@@ -31,4 +31,12 @@
 |  |
 | ------- |
 | [3567-convert-date-to-binary](https://github.com/roulaaa/Leetcode/tree/master/3567-convert-date-to-binary) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/roulaaa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/roulaaa/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
