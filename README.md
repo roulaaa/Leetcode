@@ -27,4 +27,8 @@
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/roulaaa/Leetcode/tree/master/3194-find-words-containing-character) |
+## Math
+|  |
+| ------- |
+| [2812-find-the-maximum-achievable-number](https://github.com/roulaaa/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
