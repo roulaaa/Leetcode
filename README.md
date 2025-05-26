@@ -30,5 +30,6 @@
 ## Math
 |  |
 | ------- |
+| [2383-add-two-integers](https://github.com/roulaaa/Leetcode/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/roulaaa/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 <!---LeetCode Topics End-->
