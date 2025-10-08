@@ -36,5 +36,6 @@
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/roulaaa/Leetcode/tree/master/0175-combine-two-tables) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/roulaaa/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
