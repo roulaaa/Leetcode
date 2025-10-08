@@ -38,6 +38,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/roulaaa/Leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/roulaaa/Leetcode/tree/master/0176-second-highest-salary) |
+| [0184-department-highest-salary](https://github.com/roulaaa/Leetcode/tree/master/0184-department-highest-salary) |
 | [0585-investments-in-2016](https://github.com/roulaaa/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/roulaaa/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/roulaaa/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
