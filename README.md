@@ -33,4 +33,8 @@
 | [2383-add-two-integers](https://github.com/roulaaa/Leetcode/tree/master/2383-add-two-integers) |
 | [2812-find-the-maximum-achievable-number](https://github.com/roulaaa/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/roulaaa/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Database
+|  |
+| ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/roulaaa/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
