@@ -40,6 +40,7 @@
 | [0176-second-highest-salary](https://github.com/roulaaa/Leetcode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/roulaaa/Leetcode/tree/master/0182-duplicate-emails) |
 | [0184-department-highest-salary](https://github.com/roulaaa/Leetcode/tree/master/0184-department-highest-salary) |
+| [0584-find-customer-referee](https://github.com/roulaaa/Leetcode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/roulaaa/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/roulaaa/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1179-game-play-analysis-i](https://github.com/roulaaa/Leetcode/tree/master/1179-game-play-analysis-i) |
