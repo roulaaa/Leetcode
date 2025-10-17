@@ -44,6 +44,7 @@
 | [0585-investments-in-2016](https://github.com/roulaaa/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/roulaaa/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1179-game-play-analysis-i](https://github.com/roulaaa/Leetcode/tree/master/1179-game-play-analysis-i) |
+| [1258-article-views-i](https://github.com/roulaaa/Leetcode/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/roulaaa/Leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1908-recyclable-and-low-fat-products](https://github.com/roulaaa/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
